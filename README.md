@@ -1,6 +1,6 @@
 # MiniCoderv2
 
-MiniCoder v2.0
+MiniCoder v2.0 -Video Encoder 
 
 # Updated Core package V2.0
   -GUI update 
