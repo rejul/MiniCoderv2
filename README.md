@@ -1,4 +1,4 @@
-# MiniCoderv2
+# MiniCoder v2
 
 MiniCoder v2.0 -Video Encoder 
 
