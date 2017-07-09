@@ -5,6 +5,8 @@ MiniCoder v2.0 -Video Encoder
 # Updated Core package V2.0
   -GUI update 
   
+  -Drang & Drop support
+  
   -Avisynth sync
   
   -Custom AVS filter code
